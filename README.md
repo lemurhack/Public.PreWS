@@ -17,4 +17,3 @@ Public Repo for CDIPS Pre-Workshop Participants
 	
 	# 3) Update remote repo 
 	git pull  # to pull and merge any changes
-	git push  # to push your changes to GitHub
