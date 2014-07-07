@@ -2,6 +2,10 @@
 ### Pre-Workshop Week: Day 1 ###
 ============
 
+### Link to Day 1 Worksheet ###
+
+https://drive.google.com/file/d/0B-WFR0OpW6qXSkUzbTJtcmhtTDg/edit?usp=sharing
+
 ### Getting Started with Git and GitHub ###
 
 Installing Git:
