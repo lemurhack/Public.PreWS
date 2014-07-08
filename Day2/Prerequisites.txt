@@ -1,0 +1,4 @@
+- Download python ahead of time (this is ~300MB, so it's better to do it beforehand!). If you're not sure which python installation to choose, or if you've never used python on your computer before, try Anaconda (https://store.continuum.io/cshop/anaconda/). 
+
+- If you have a Mac, download XCode ***and the command line tools*** (https://developer.apple.com/xcode/downloads/ ; scroll down to "Additional Tools" to find the command line tools. You may need to register for an Apple developer account as well.). 
+
